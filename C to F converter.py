@@ -8,5 +8,3 @@ if degC > -273.15:
     print(c_to_f(degC))
 else:
     print("yous a foo")
-
-print('test')
